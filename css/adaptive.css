@@ -82,6 +82,13 @@
     
 }
 
+@media (max-width: 1419px)
+{
+    .logo>img{
+        display: none;
+    }
+}
+
 @media (max-height: 435px){
     .skills{
         display: none;
@@ -151,9 +158,4 @@
     }
 }
 
-@media (max-width: 1419px)
-{
-    .logo>img{
-        display: none;
-    }
-}
+
