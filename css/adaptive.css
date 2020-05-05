@@ -29,7 +29,7 @@
 @media (max-width: 767px){
 
     .drop{
-        min-width: 95%;
+        min-width: 88%;
     }
 
     p{
@@ -43,15 +43,15 @@
     }
     
     .skills{
-        min-width: 95%;
+        min-width: 88%;
     }
 
     .about{
-        min-width: 95%;
+        min-width: 88%;
     }
 
     .wrap{
-        min-width: 95%;
+        min-width: 88%;
     }
     
     .content{
@@ -59,7 +59,7 @@
     }
 
     .footer{
-        min-width: 95%;
+        min-width: 88%;
     }
 
     .head{
@@ -148,5 +148,12 @@
         width: 60%;
         height: 100%;
         background-color: #df96fc;
+    }
+}
+
+@media (max-width: 1419px)
+{
+    .logo>img{
+        display: none;
     }
 }
