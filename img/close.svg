@@ -1,0 +1,12 @@
+<svg id="Menu_Close" data-name="Menu Close" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M1815.22,200.364l14.14-14.142,1.42,1.414-14.14,14.142Z" transform="translate(-1815 -186)"/>
+  <path id="Rectangle_3_copy" data-name="Rectangle 3 copy" class="cls-1" d="M1816.46,186l14.54,14.54L1829.54,202,1815,187.457Z" transform="translate(-1815 -186)"/>
+</svg>

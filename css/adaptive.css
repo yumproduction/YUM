@@ -1,0 +1,152 @@
+@media (max-width: 976px){
+
+    .drop{
+        min-width: 65%;
+    }
+    
+    .skills{
+        min-width: 65%;
+    }
+
+    .about{
+        min-width: 65%;
+    }
+
+    .wrap{
+        min-width: 65%;
+    }
+    
+    .content{
+        min-width: 65%;
+    }
+
+    .footer{
+        min-width: 65%;
+    }
+
+}
+
+@media (max-width: 767px){
+
+    .drop{
+        min-width: 95%;
+    }
+
+    p{
+        font-size: 90%;
+    }
+    h1{
+        font-size: 280%;
+    }
+    h3{
+        font-size: 150%;
+    }
+    
+    .skills{
+        min-width: 95%;
+    }
+
+    .about{
+        min-width: 95%;
+    }
+
+    .wrap{
+        min-width: 95%;
+    }
+    
+    .content{
+        min-width: 95%;
+    }
+
+    .footer{
+        min-width: 95%;
+    }
+
+    .head{
+        font-size: 120%;
+    }
+
+}
+
+
+@media (max-width: 500px) {
+    p{
+        font-size: 60%;
+    }
+    h1{
+        font-size: 180%;
+    }
+    h3{
+        font-size: 100%;
+    }
+    
+}
+
+@media (max-height: 435px){
+    .skills{
+        display: none;
+    }
+    .drop{
+        width: 80%;
+    }
+    
+    .landscape{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .txtdrop{
+        text-align: left;
+        padding-left: 30px;
+        line-height: 1.5;
+    }
+}
+
+@media (max-height: 700px){
+    .about{
+        padding-top: 5px;
+    }
+
+    .drop{
+        padding-top: 25px;
+    }
+}
+
+@media (min-height: 500px), (min-width: 500px) {
+    .skills{
+        padding-top: 30px;
+        display: flex;
+        justify-content: space-between;
+        line-height: 3;
+    }
+    
+    .progressbars{
+        width: 30%;
+        text-align: center;
+    }
+    
+    .progress{
+        width: 100%;
+        height: 2px;
+        background-color: #000;
+    }
+    
+    .in1{
+        width: 98%;
+        height: 100%;
+        background-color: #3a1aa2;
+    }
+    
+    .in2{
+        width: 70%;
+        height: 100%;
+        background-color: #9e54bb;
+    }
+    
+    .in3{
+        width: 60%;
+        height: 100%;
+        background-color: #df96fc;
+    }
+}
